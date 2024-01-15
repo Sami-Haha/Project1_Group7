@@ -1,101 +1,91 @@
-Postcode,State_x,Fuel Type,Registrations as at 31 January 2022,Total personal income (weekly),Age,State_y,Population
-4000,QLD,Hybrid,2511, Total, 15-19 years, Queensland,1093
-4000,QLD,Hybrid,2511, Total, 20-24 years, Queensland,3067
-4000,QLD,Hybrid,2511, Total, 25-34 years, Queensland,6378
-4000,QLD,Hybrid,2511, Total, 35-44 years, Queensland,3228
-4000,QLD,Hybrid,2511, Total, 45-54 years, Queensland,2047
-4000,QLD,Hybrid,2511, Total, 55-64 years, Queensland,1718
-4000,QLD,Hybrid,2511, Total, 65-74 years, Queensland,1091
-4000,QLD,Hybrid,2511, Total, 75-84 years, Queensland,421
-4000,QLD,Hybrid,2511, Total, 85 years and over, Queensland,98
-4000,QLD,Hybrid,2511, Total, Total, Queensland,19144
-4008,QLD,Hybrid,1812, Total, 15-19 years, Queensland,6
-4008,QLD,Hybrid,1812, Total, 20-24 years, Queensland,24
-4008,QLD,Hybrid,1812, Total, 25-34 years, Queensland,80
-4008,QLD,Hybrid,1812, Total, 35-44 years, Queensland,70
-4008,QLD,Hybrid,1812, Total, 45-54 years, Queensland,45
-4008,QLD,Hybrid,1812, Total, 55-64 years, Queensland,55
-4008,QLD,Hybrid,1812, Total, 65-74 years, Queensland,42
-4008,QLD,Hybrid,1812, Total, 75-84 years, Queensland,16
-4008,QLD,Hybrid,1812, Total, 85 years and over, Queensland,4
-4008,QLD,Hybrid,1812, Total, Total, Queensland,344
-3029,VIC,Hybrid,1803, Total, 15-19 years, Victoria,6815
-3029,VIC,Hybrid,1803, Total, 20-24 years, Victoria,8490
-3029,VIC,Hybrid,1803, Total, 25-34 years, Victoria,24770
-3029,VIC,Hybrid,1803, Total, 35-44 years, Victoria,25580
-3029,VIC,Hybrid,1803, Total, 45-54 years, Victoria,12319
-3029,VIC,Hybrid,1803, Total, 55-64 years, Victoria,9079
-3029,VIC,Hybrid,1803, Total, 65-74 years, Victoria,5903
-3029,VIC,Hybrid,1803, Total, 75-84 years, Victoria,2408
-3029,VIC,Hybrid,1803, Total, 85 years and over, Victoria,541
-3029,VIC,Hybrid,1803, Total, Total, Victoria,95904
-2170,NSW,Hybrid,1543, Total, 15-19 years, New South Wales,7370
-2170,NSW,Hybrid,1543, Total, 20-24 years, New South Wales,7819
-2170,NSW,Hybrid,1543, Total, 25-34 years, New South Wales,17018
-2170,NSW,Hybrid,1543, Total, 35-44 years, New South Wales,16392
-2170,NSW,Hybrid,1543, Total, 45-54 years, New South Wales,14110
-2170,NSW,Hybrid,1543, Total, 55-64 years, New South Wales,12336
-2170,NSW,Hybrid,1543, Total, 65-74 years, New South Wales,8538
-2170,NSW,Hybrid,1543, Total, 75-84 years, New South Wales,4808
-2170,NSW,Hybrid,1543, Total, 85 years and over, New South Wales,1947
-2170,NSW,Hybrid,1543, Total, Total, New South Wales,90344
-2020,NSW,Hybrid,1430, Total, 15-19 years, New South Wales,702
-2020,NSW,Hybrid,1430, Total, 20-24 years, New South Wales,2876
-2020,NSW,Hybrid,1430, Total, 25-34 years, New South Wales,7408
-2020,NSW,Hybrid,1430, Total, 35-44 years, New South Wales,3256
-2020,NSW,Hybrid,1430, Total, 45-54 years, New South Wales,1794
-2020,NSW,Hybrid,1430, Total, 55-64 years, New South Wales,1394
-2020,NSW,Hybrid,1430, Total, 65-74 years, New South Wales,917
-2020,NSW,Hybrid,1430, Total, 75-84 years, New South Wales,522
-2020,NSW,Hybrid,1430, Total, 85 years and over, New South Wales,190
-2020,NSW,Hybrid,1430, Total, Total, New South Wales,19057
-3064,VIC,Hybrid,1354, Total, 15-19 years, Victoria,7226
-3064,VIC,Hybrid,1354, Total, 20-24 years, Victoria,7985
-3064,VIC,Hybrid,1354, Total, 25-34 years, Victoria,21003
-3064,VIC,Hybrid,1354, Total, 35-44 years, Victoria,19925
-3064,VIC,Hybrid,1354, Total, 45-54 years, Victoria,12262
-3064,VIC,Hybrid,1354, Total, 55-64 years, Victoria,9204
-3064,VIC,Hybrid,1354, Total, 65-74 years, Victoria,4897
-3064,VIC,Hybrid,1354, Total, 75-84 years, Victoria,1849
-3064,VIC,Hybrid,1354, Total, 85 years and over, Victoria,539
-3064,VIC,Hybrid,1354, Total, Total, Victoria,84878
-3000,VIC,Hybrid,1259, Total, 15-19 years, Victoria,1726
-3000,VIC,Hybrid,1259, Total, 20-24 years, Victoria,10827
-3000,VIC,Hybrid,1259, Total, 25-34 years, Victoria,17665
-3000,VIC,Hybrid,1259, Total, 35-44 years, Victoria,5909
-3000,VIC,Hybrid,1259, Total, 45-54 years, Victoria,2466
-3000,VIC,Hybrid,1259, Total, 55-64 years, Victoria,1688
-3000,VIC,Hybrid,1259, Total, 65-74 years, Victoria,956
-3000,VIC,Hybrid,1259, Total, 75-84 years, Victoria,323
-3000,VIC,Hybrid,1259, Total, 85 years and over, Victoria,73
-3000,VIC,Hybrid,1259, Total, Total, Victoria,41625
-2000,NSW,Hybrid,1215, Total, 15-19 years, New South Wales,610
-2000,NSW,Hybrid,1215, Total, 20-24 years, New South Wales,3429
-2000,NSW,Hybrid,1215, Total, 25-34 years, New South Wales,10684
-2000,NSW,Hybrid,1215, Total, 35-44 years, New South Wales,5424
-2000,NSW,Hybrid,1215, Total, 45-54 years, New South Wales,2398
-2000,NSW,Hybrid,1215, Total, 55-64 years, New South Wales,1872
-2000,NSW,Hybrid,1215, Total, 65-74 years, New South Wales,1310
-2000,NSW,Hybrid,1215, Total, 75-84 years, New South Wales,625
-2000,NSW,Hybrid,1215, Total, 85 years and over, New South Wales,165
-2000,NSW,Hybrid,1215, Total, Total, New South Wales,26520
-3175,VIC,Hybrid,1188, Total, 15-19 years, Victoria,2830
-3175,VIC,Hybrid,1188, Total, 20-24 years, Victoria,3630
-3175,VIC,Hybrid,1188, Total, 25-34 years, Victoria,9625
-3175,VIC,Hybrid,1188, Total, 35-44 years, Victoria,7909
-3175,VIC,Hybrid,1188, Total, 45-54 years, Victoria,6032
-3175,VIC,Hybrid,1188, Total, 55-64 years, Victoria,5326
-3175,VIC,Hybrid,1188, Total, 65-74 years, Victoria,4447
-3175,VIC,Hybrid,1188, Total, 75-84 years, Victoria,2828
-3175,VIC,Hybrid,1188, Total, 85 years and over, Victoria,1233
-3175,VIC,Hybrid,1188, Total, Total, Victoria,43865
-4350,QLD,Hybrid,1183, Total, 15-19 years, Queensland,7608
-4350,QLD,Hybrid,1183, Total, 20-24 years, Queensland,7849
-4350,QLD,Hybrid,1183, Total, 25-34 years, Queensland,15863
-4350,QLD,Hybrid,1183, Total, 35-44 years, Queensland,13656
-4350,QLD,Hybrid,1183, Total, 45-54 years, Queensland,13213
-4350,QLD,Hybrid,1183, Total, 55-64 years, Queensland,12714
-4350,QLD,Hybrid,1183, Total, 65-74 years, Queensland,11584
-4350,QLD,Hybrid,1183, Total, 75-84 years, Queensland,7612
-4350,QLD,Hybrid,1183, Total, 85 years and over, Queensland,3283
-4350,QLD,Hybrid,1183, Total, Total, Queensland,93382
+Postcode,locality,State,Registrations as at 31 January 2022,Population,Total personal income (weekly),Income_Midpoint,Age,Age_Midpoint,Fuel Type
+4000,BRISBANE,QLD,2511,1093, Total,0, 15-19 years,17.0,Hybrid
+4000,BRISBANE,QLD,2511,3067, Total,0, 20-24 years,22.0,Hybrid
+4000,BRISBANE,QLD,2511,6378, Total,0, 25-34 years,29.5,Hybrid
+4000,BRISBANE,QLD,2511,3228, Total,0, 35-44 years,39.5,Hybrid
+4000,BRISBANE,QLD,2511,2047, Total,0, 45-54 years,49.5,Hybrid
+4000,BRISBANE,QLD,2511,1718, Total,0, 55-64 years,59.5,Hybrid
+4000,BRISBANE,QLD,2511,1091, Total,0, 65-74 years,69.5,Hybrid
+4000,BRISBANE,QLD,2511,421, Total,0, 75-84 years,79.5,Hybrid
+4000,BRISBANE,QLD,2511,98, Total,0, 85 years and over,85+,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,6, Total,0, 15-19 years,17.0,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,24, Total,0, 20-24 years,22.0,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,80, Total,0, 25-34 years,29.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,70, Total,0, 35-44 years,39.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,45, Total,0, 45-54 years,49.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,55, Total,0, 55-64 years,59.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,42, Total,0, 65-74 years,69.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,16, Total,0, 75-84 years,79.5,Hybrid
+4008,BRISBANE AIRPORT,QLD,1812,4, Total,0, 85 years and over,85+,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,6815, Total,0, 15-19 years,17.0,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,8490, Total,0, 20-24 years,22.0,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,24770, Total,0, 25-34 years,29.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,25580, Total,0, 35-44 years,39.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,12319, Total,0, 45-54 years,49.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,9079, Total,0, 55-64 years,59.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,5903, Total,0, 65-74 years,69.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,2408, Total,0, 75-84 years,79.5,Hybrid
+3029,HOPPERS CROSSING,VIC,1803,541, Total,0, 85 years and over,85+,Hybrid
+2170,CASULA,NSW,1543,7370, Total,0, 15-19 years,17.0,Hybrid
+2170,CASULA,NSW,1543,7819, Total,0, 20-24 years,22.0,Hybrid
+2170,CASULA,NSW,1543,17018, Total,0, 25-34 years,29.5,Hybrid
+2170,CASULA,NSW,1543,16392, Total,0, 35-44 years,39.5,Hybrid
+2170,CASULA,NSW,1543,14110, Total,0, 45-54 years,49.5,Hybrid
+2170,CASULA,NSW,1543,12336, Total,0, 55-64 years,59.5,Hybrid
+2170,CASULA,NSW,1543,8538, Total,0, 65-74 years,69.5,Hybrid
+2170,CASULA,NSW,1543,4808, Total,0, 75-84 years,79.5,Hybrid
+2170,CASULA,NSW,1543,1947, Total,0, 85 years and over,85+,Hybrid
+2020,MASCOT,NSW,1430,702, Total,0, 15-19 years,17.0,Hybrid
+2020,MASCOT,NSW,1430,2876, Total,0, 20-24 years,22.0,Hybrid
+2020,MASCOT,NSW,1430,7408, Total,0, 25-34 years,29.5,Hybrid
+2020,MASCOT,NSW,1430,3256, Total,0, 35-44 years,39.5,Hybrid
+2020,MASCOT,NSW,1430,1794, Total,0, 45-54 years,49.5,Hybrid
+2020,MASCOT,NSW,1430,1394, Total,0, 55-64 years,59.5,Hybrid
+2020,MASCOT,NSW,1430,917, Total,0, 65-74 years,69.5,Hybrid
+2020,MASCOT,NSW,1430,522, Total,0, 75-84 years,79.5,Hybrid
+2020,MASCOT,NSW,1430,190, Total,0, 85 years and over,85+,Hybrid
+3064,CRAIGIEBURN,VIC,1354,7226, Total,0, 15-19 years,17.0,Hybrid
+3064,CRAIGIEBURN,VIC,1354,7985, Total,0, 20-24 years,22.0,Hybrid
+3064,CRAIGIEBURN,VIC,1354,21003, Total,0, 25-34 years,29.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,19925, Total,0, 35-44 years,39.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,12262, Total,0, 45-54 years,49.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,9204, Total,0, 55-64 years,59.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,4897, Total,0, 65-74 years,69.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,1849, Total,0, 75-84 years,79.5,Hybrid
+3064,CRAIGIEBURN,VIC,1354,539, Total,0, 85 years and over,85+,Hybrid
+3000,MELBOURNE,VIC,1259,1726, Total,0, 15-19 years,17.0,Hybrid
+3000,MELBOURNE,VIC,1259,10827, Total,0, 20-24 years,22.0,Hybrid
+3000,MELBOURNE,VIC,1259,17665, Total,0, 25-34 years,29.5,Hybrid
+3000,MELBOURNE,VIC,1259,5909, Total,0, 35-44 years,39.5,Hybrid
+3000,MELBOURNE,VIC,1259,2466, Total,0, 45-54 years,49.5,Hybrid
+3000,MELBOURNE,VIC,1259,1688, Total,0, 55-64 years,59.5,Hybrid
+3000,MELBOURNE,VIC,1259,956, Total,0, 65-74 years,69.5,Hybrid
+3000,MELBOURNE,VIC,1259,323, Total,0, 75-84 years,79.5,Hybrid
+3000,MELBOURNE,VIC,1259,73, Total,0, 85 years and over,85+,Hybrid
+2000,BARANGAROO,NSW,1215,610, Total,0, 15-19 years,17.0,Hybrid
+2000,BARANGAROO,NSW,1215,3429, Total,0, 20-24 years,22.0,Hybrid
+2000,BARANGAROO,NSW,1215,10684, Total,0, 25-34 years,29.5,Hybrid
+2000,BARANGAROO,NSW,1215,5424, Total,0, 35-44 years,39.5,Hybrid
+2000,BARANGAROO,NSW,1215,2398, Total,0, 45-54 years,49.5,Hybrid
+2000,BARANGAROO,NSW,1215,1872, Total,0, 55-64 years,59.5,Hybrid
+2000,BARANGAROO,NSW,1215,1310, Total,0, 65-74 years,69.5,Hybrid
+2000,BARANGAROO,NSW,1215,625, Total,0, 75-84 years,79.5,Hybrid
+2000,BARANGAROO,NSW,1215,165, Total,0, 85 years and over,85+,Hybrid
+3175,BANGHOLME,VIC,1188,2830, Total,0, 15-19 years,17.0,Hybrid
+3175,BANGHOLME,VIC,1188,3630, Total,0, 20-24 years,22.0,Hybrid
+3175,BANGHOLME,VIC,1188,9625, Total,0, 25-34 years,29.5,Hybrid
+3175,BANGHOLME,VIC,1188,7909, Total,0, 35-44 years,39.5,Hybrid
+3175,BANGHOLME,VIC,1188,6032, Total,0, 45-54 years,49.5,Hybrid
+3175,BANGHOLME,VIC,1188,5326, Total,0, 55-64 years,59.5,Hybrid
+3175,BANGHOLME,VIC,1188,4447, Total,0, 65-74 years,69.5,Hybrid
+3175,BANGHOLME,VIC,1188,2828, Total,0, 75-84 years,79.5,Hybrid
+3175,BANGHOLME,VIC,1188,1233, Total,0, 85 years and over,85+,Hybrid
+4350,ATHOL,QLD,1183,7608, Total,0, 15-19 years,17.0,Hybrid
+4350,ATHOL,QLD,1183,7849, Total,0, 20-24 years,22.0,Hybrid
+4350,ATHOL,QLD,1183,15863, Total,0, 25-34 years,29.5,Hybrid
+4350,ATHOL,QLD,1183,13656, Total,0, 35-44 years,39.5,Hybrid
+4350,ATHOL,QLD,1183,13213, Total,0, 45-54 years,49.5,Hybrid
+4350,ATHOL,QLD,1183,12714, Total,0, 55-64 years,59.5,Hybrid
+4350,ATHOL,QLD,1183,11584, Total,0, 65-74 years,69.5,Hybrid
+4350,ATHOL,QLD,1183,7612, Total,0, 75-84 years,79.5,Hybrid
+4350,ATHOL,QLD,1183,3283, Total,0, 85 years and over,85+,Hybrid

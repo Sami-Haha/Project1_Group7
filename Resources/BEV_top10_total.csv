@@ -1,101 +1,91 @@
-Postcode,State_x,Fuel Type,Registrations as at 31 January 2022,Total personal income (weekly),Age,State_y,Population
-3170,VIC,Battery Electric Vehicle,227, Total, 15-19 years, Victoria,1056
-3170,VIC,Battery Electric Vehicle,227, Total, 20-24 years, Victoria,1141
-3170,VIC,Battery Electric Vehicle,227, Total, 25-34 years, Victoria,2704
-3170,VIC,Battery Electric Vehicle,227, Total, 35-44 years, Victoria,2894
-3170,VIC,Battery Electric Vehicle,227, Total, 45-54 years, Victoria,2599
-3170,VIC,Battery Electric Vehicle,227, Total, 55-64 years, Victoria,2073
-3170,VIC,Battery Electric Vehicle,227, Total, 65-74 years, Victoria,1965
-3170,VIC,Battery Electric Vehicle,227, Total, 75-84 years, Victoria,1420
-3170,VIC,Battery Electric Vehicle,227, Total, 85 years and over, Victoria,519
-3170,VIC,Battery Electric Vehicle,227, Total, Total, Victoria,16370
-4217,QLD,Battery Electric Vehicle,185, Total, 15-19 years, Queensland,1942
-4217,QLD,Battery Electric Vehicle,185, Total, 20-24 years, Queensland,2998
-4217,QLD,Battery Electric Vehicle,185, Total, 25-34 years, Queensland,7435
-4217,QLD,Battery Electric Vehicle,185, Total, 35-44 years, Queensland,5731
-4217,QLD,Battery Electric Vehicle,185, Total, 45-54 years, Queensland,5983
-4217,QLD,Battery Electric Vehicle,185, Total, 55-64 years, Queensland,6135
-4217,QLD,Battery Electric Vehicle,185, Total, 65-74 years, Queensland,5804
-4217,QLD,Battery Electric Vehicle,185, Total, 75-84 years, Queensland,3335
-4217,QLD,Battery Electric Vehicle,185, Total, 85 years and over, Queensland,849
-4217,QLD,Battery Electric Vehicle,185, Total, Total, Queensland,40202
-2113,NSW,Battery Electric Vehicle,180, Total, 15-19 years, New South Wales,1347
-2113,NSW,Battery Electric Vehicle,180, Total, 20-24 years, New South Wales,2497
-2113,NSW,Battery Electric Vehicle,180, Total, 25-34 years, New South Wales,6188
-2113,NSW,Battery Electric Vehicle,180, Total, 35-44 years, New South Wales,4582
-2113,NSW,Battery Electric Vehicle,180, Total, 45-54 years, New South Wales,2876
-2113,NSW,Battery Electric Vehicle,180, Total, 55-64 years, New South Wales,2533
-2113,NSW,Battery Electric Vehicle,180, Total, 65-74 years, New South Wales,1770
-2113,NSW,Battery Electric Vehicle,180, Total, 75-84 years, New South Wales,1048
-2113,NSW,Battery Electric Vehicle,180, Total, 85 years and over, New South Wales,664
-2113,NSW,Battery Electric Vehicle,180, Total, Total, New South Wales,23514
-2030,NSW,Battery Electric Vehicle,179, Total, 15-19 years, New South Wales,1119
-2030,NSW,Battery Electric Vehicle,179, Total, 20-24 years, New South Wales,837
-2030,NSW,Battery Electric Vehicle,179, Total, 25-34 years, New South Wales,1264
-2030,NSW,Battery Electric Vehicle,179, Total, 35-44 years, New South Wales,1698
-2030,NSW,Battery Electric Vehicle,179, Total, 45-54 years, New South Wales,2315
-2030,NSW,Battery Electric Vehicle,179, Total, 55-64 years, New South Wales,1825
-2030,NSW,Battery Electric Vehicle,179, Total, 65-74 years, New South Wales,1391
-2030,NSW,Battery Electric Vehicle,179, Total, 75-84 years, New South Wales,814
-2030,NSW,Battery Electric Vehicle,179, Total, 85 years and over, New South Wales,428
-2030,NSW,Battery Electric Vehicle,179, Total, Total, New South Wales,11690
-4069,QLD,Battery Electric Vehicle,176, Total, 15-19 years, Queensland,2658
-4069,QLD,Battery Electric Vehicle,176, Total, 20-24 years, Queensland,1843
-4069,QLD,Battery Electric Vehicle,176, Total, 25-34 years, Queensland,2308
-4069,QLD,Battery Electric Vehicle,176, Total, 35-44 years, Queensland,4781
-4069,QLD,Battery Electric Vehicle,176, Total, 45-54 years, Queensland,5709
-4069,QLD,Battery Electric Vehicle,176, Total, 55-64 years, Queensland,4213
-4069,QLD,Battery Electric Vehicle,176, Total, 65-74 years, Queensland,3440
-4069,QLD,Battery Electric Vehicle,176, Total, 75-84 years, Queensland,2203
-4069,QLD,Battery Electric Vehicle,176, Total, 85 years and over, Queensland,1015
-4069,QLD,Battery Electric Vehicle,176, Total, Total, Queensland,28167
-2088,NSW,Battery Electric Vehicle,169, Total, 15-19 years, New South Wales,1619
-4006,QLD,Battery Electric Vehicle,169, Total, 15-19 years, Queensland,555
-2088,NSW,Battery Electric Vehicle,169, Total, 20-24 years, New South Wales,1346
-4006,QLD,Battery Electric Vehicle,169, Total, 20-24 years, Queensland,3428
-2088,NSW,Battery Electric Vehicle,169, Total, 25-34 years, New South Wales,2935
-4006,QLD,Battery Electric Vehicle,169, Total, 25-34 years, Queensland,9435
-2088,NSW,Battery Electric Vehicle,169, Total, 35-44 years, New South Wales,3649
-4006,QLD,Battery Electric Vehicle,169, Total, 35-44 years, Queensland,4227
-2088,NSW,Battery Electric Vehicle,169, Total, 45-54 years, New South Wales,4238
-4006,QLD,Battery Electric Vehicle,169, Total, 45-54 years, Queensland,2245
-2088,NSW,Battery Electric Vehicle,169, Total, 55-64 years, New South Wales,3727
-4006,QLD,Battery Electric Vehicle,169, Total, 55-64 years, Queensland,1507
-2088,NSW,Battery Electric Vehicle,169, Total, 65-74 years, New South Wales,3073
-4006,QLD,Battery Electric Vehicle,169, Total, 65-74 years, Queensland,915
-2088,NSW,Battery Electric Vehicle,169, Total, 75-84 years, New South Wales,2216
-4006,QLD,Battery Electric Vehicle,169, Total, 75-84 years, Queensland,555
-2088,NSW,Battery Electric Vehicle,169, Total, 85 years and over, New South Wales,916
-4006,QLD,Battery Electric Vehicle,169, Total, 85 years and over, Queensland,245
-2088,NSW,Battery Electric Vehicle,169, Total, Total, New South Wales,23719
-4006,QLD,Battery Electric Vehicle,169, Total, Total, Queensland,23114
-3030,VIC,Battery Electric Vehicle,163, Total, 15-19 years, Victoria,6749
-3030,VIC,Battery Electric Vehicle,163, Total, 20-24 years, Victoria,6820
-3030,VIC,Battery Electric Vehicle,163, Total, 25-34 years, Victoria,18359
-3030,VIC,Battery Electric Vehicle,163, Total, 35-44 years, Victoria,22767
-3030,VIC,Battery Electric Vehicle,163, Total, 45-54 years, Victoria,14671
-3030,VIC,Battery Electric Vehicle,163, Total, 55-64 years, Victoria,9998
-3030,VIC,Battery Electric Vehicle,163, Total, 65-74 years, Victoria,6759
-3030,VIC,Battery Electric Vehicle,163, Total, 75-84 years, Victoria,3076
-3030,VIC,Battery Electric Vehicle,163, Total, 85 years and over, Victoria,1147
-3030,VIC,Battery Electric Vehicle,163, Total, Total, Victoria,90342
-2000,NSW,Battery Electric Vehicle,159, Total, 15-19 years, New South Wales,610
-2000,NSW,Battery Electric Vehicle,159, Total, 20-24 years, New South Wales,3429
-2000,NSW,Battery Electric Vehicle,159, Total, 25-34 years, New South Wales,10684
-2000,NSW,Battery Electric Vehicle,159, Total, 35-44 years, New South Wales,5424
-2000,NSW,Battery Electric Vehicle,159, Total, 45-54 years, New South Wales,2398
-2000,NSW,Battery Electric Vehicle,159, Total, 55-64 years, New South Wales,1872
-2000,NSW,Battery Electric Vehicle,159, Total, 65-74 years, New South Wales,1310
-2000,NSW,Battery Electric Vehicle,159, Total, 75-84 years, New South Wales,625
-2000,NSW,Battery Electric Vehicle,159, Total, 85 years and over, New South Wales,165
-2000,NSW,Battery Electric Vehicle,159, Total, Total, New South Wales,26520
-2602,ACT,Battery Electric Vehicle,157, Total, 15-19 years, Australian Capital Territory,1658
-2602,ACT,Battery Electric Vehicle,157, Total, 20-24 years, Australian Capital Territory,3175
-2602,ACT,Battery Electric Vehicle,157, Total, 25-34 years, Australian Capital Territory,6192
-2602,ACT,Battery Electric Vehicle,157, Total, 35-44 years, Australian Capital Territory,5195
-2602,ACT,Battery Electric Vehicle,157, Total, 45-54 years, Australian Capital Territory,4445
-2602,ACT,Battery Electric Vehicle,157, Total, 55-64 years, Australian Capital Territory,3480
-2602,ACT,Battery Electric Vehicle,157, Total, 65-74 years, Australian Capital Territory,2473
-2602,ACT,Battery Electric Vehicle,157, Total, 75-84 years, Australian Capital Territory,1434
-2602,ACT,Battery Electric Vehicle,157, Total, 85 years and over, Australian Capital Territory,828
-2602,ACT,Battery Electric Vehicle,157, Total, Total, Australian Capital Territory,28876
+Postcode,locality,State,Registrations as at 31 January 2022,Population,Total personal income (weekly),Income_Midpoint,Age,Age_Midpoint,Fuel Type
+4350,ATHOL,QLD,87602,7608, Total,0, 15-19 years,17.0,Internal Combustion Engine
+4350,ATHOL,QLD,87602,7849, Total,0, 20-24 years,22.0,Internal Combustion Engine
+4350,ATHOL,QLD,87602,15863, Total,0, 25-34 years,29.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,13656, Total,0, 35-44 years,39.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,13213, Total,0, 45-54 years,49.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,12714, Total,0, 55-64 years,59.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,11584, Total,0, 65-74 years,69.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,7612, Total,0, 75-84 years,79.5,Internal Combustion Engine
+4350,ATHOL,QLD,87602,3283, Total,0, 85 years and over,85+,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,6815, Total,0, 15-19 years,17.0,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,8490, Total,0, 20-24 years,22.0,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,24770, Total,0, 25-34 years,29.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,25580, Total,0, 35-44 years,39.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,12319, Total,0, 45-54 years,49.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,9079, Total,0, 55-64 years,59.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,5903, Total,0, 65-74 years,69.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,2408, Total,0, 75-84 years,79.5,Internal Combustion Engine
+3029,HOPPERS CROSSING,VIC,80997,541, Total,0, 85 years and over,85+,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,6749, Total,0, 15-19 years,17.0,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,6820, Total,0, 20-24 years,22.0,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,18359, Total,0, 25-34 years,29.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,22767, Total,0, 35-44 years,39.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,14671, Total,0, 45-54 years,49.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,9998, Total,0, 55-64 years,59.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,6759, Total,0, 65-74 years,69.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,3076, Total,0, 75-84 years,79.5,Internal Combustion Engine
+3030,CHARTWELL,VIC,77870,1147, Total,0, 85 years and over,85+,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,7126, Total,0, 15-19 years,17.0,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,7453, Total,0, 20-24 years,22.0,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,18254, Total,0, 25-34 years,29.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,19890, Total,0, 35-44 years,39.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,13913, Total,0, 45-54 years,49.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,10409, Total,0, 55-64 years,59.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,6854, Total,0, 65-74 years,69.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,3373, Total,0, 75-84 years,79.5,Internal Combustion Engine
+3977,BOTANIC RIDGE,VIC,76288,1144, Total,0, 85 years and over,85+,Internal Combustion Engine
+2170,CASULA,NSW,74941,7370, Total,0, 15-19 years,17.0,Internal Combustion Engine
+2170,CASULA,NSW,74941,7819, Total,0, 20-24 years,22.0,Internal Combustion Engine
+2170,CASULA,NSW,74941,17018, Total,0, 25-34 years,29.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,16392, Total,0, 35-44 years,39.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,14110, Total,0, 45-54 years,49.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,12336, Total,0, 55-64 years,59.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,8538, Total,0, 65-74 years,69.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,4808, Total,0, 75-84 years,79.5,Internal Combustion Engine
+2170,CASULA,NSW,74941,1947, Total,0, 85 years and over,85+,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,5135, Total,0, 15-19 years,17.0,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,5191, Total,0, 20-24 years,22.0,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,11474, Total,0, 25-34 years,29.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,11530, Total,0, 35-44 years,39.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,11373, Total,0, 45-54 years,49.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,10866, Total,0, 55-64 years,59.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,7459, Total,0, 65-74 years,69.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,3996, Total,0, 75-84 years,79.5,Internal Combustion Engine
+4740,ALEXANDRA,QLD,70852,1592, Total,0, 85 years and over,85+,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,7226, Total,0, 15-19 years,17.0,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,7985, Total,0, 20-24 years,22.0,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,21003, Total,0, 25-34 years,29.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,19925, Total,0, 35-44 years,39.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,12262, Total,0, 45-54 years,49.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,9204, Total,0, 55-64 years,59.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,4897, Total,0, 65-74 years,69.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,1849, Total,0, 75-84 years,79.5,Internal Combustion Engine
+3064,CRAIGIEBURN,VIC,68464,539, Total,0, 85 years and over,85+,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,4840, Total,0, 15-19 years,17.0,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,4239, Total,0, 20-24 years,22.0,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,9059, Total,0, 25-34 years,29.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,8877, Total,0, 35-44 years,39.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,10224, Total,0, 45-54 years,49.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,11723, Total,0, 55-64 years,59.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,11545, Total,0, 65-74 years,69.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,7391, Total,0, 75-84 years,79.5,Internal Combustion Engine
+4670,ABBOTSFORD,QLD,67075,2468, Total,0, 85 years and over,85+,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,4027, Total,0, 15-19 years,17.0,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,3805, Total,0, 20-24 years,22.0,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,7379, Total,0, 25-34 years,29.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,7957, Total,0, 35-44 years,39.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,9115, Total,0, 45-54 years,49.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,10254, Total,0, 55-64 years,59.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,10654, Total,0, 65-74 years,69.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,6895, Total,0, 75-84 years,79.5,Internal Combustion Engine
+6210,BARRAGUP,WA,58485,2584, Total,0, 85 years and over,85+,Internal Combustion Engine
+6065,ASHBY,WA,57860,4439, Total,0, 15-19 years,17.0,Internal Combustion Engine
+6065,ASHBY,WA,57860,4159, Total,0, 20-24 years,22.0,Internal Combustion Engine
+6065,ASHBY,WA,57860,9009, Total,0, 25-34 years,29.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,11029, Total,0, 35-44 years,39.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,9414, Total,0, 45-54 years,49.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,6672, Total,0, 55-64 years,59.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,4788, Total,0, 65-74 years,69.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,2558, Total,0, 75-84 years,79.5,Internal Combustion Engine
+6065,ASHBY,WA,57860,915, Total,0, 85 years and over,85+,Internal Combustion Engine
