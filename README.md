@@ -1,5 +1,6 @@
 ## Group 7 Project 1
-
+Key contributors are;
+Bradley, Michelle, Priyanshu and Rhea
 
 ## Project proposal draft
 The aim of our project is to uncover patterns in electric vehicle ownership in Australia. We’ll examine relationships between vehicle ownership and location, vehicle ownership over a three year period and other relationships that can be derived from the data.
